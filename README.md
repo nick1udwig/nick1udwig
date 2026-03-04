@@ -10,9 +10,9 @@ And before that I studied complex liquids for my Physical Chemistry PhD at the U
 ### Projects
 
 - Sieve, a forthcoming general-purpose agent framework
-- [test-ir](), confirm tests in lang A and B enforce the same conditions: gives agent-clones of test-covered repos in new languages a foundation
+- [test-ir](https://github.com/nick1udwig/test-ir), enforce tests in lang A & B are same -> agents can clone repos easier
 - [brave-search](https://github.com/nick1udwig/brave-search), a CLI wrapper for the Brave websearch API
-- [Skin In The Game](https://github.com/nick1udwig/sitg), make PR contributors have Skin In The Game by posting a refundable bond before they can send a PR: https://sitg.io/
+- [Skin In The Game](https://github.com/nick1udwig/sitg), make PR contributors post a refundable bond before they can send a PR: https://sitg.io
 - [PRompt Request](https://github.com/nick1udwig/prompt-request), agent-first site for sharing PRompt Requests alongside PRs: https://prr.gg/h
 
 ### Links
