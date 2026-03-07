@@ -7,7 +7,7 @@ And before that I studied complex liquids for my Physical Chemistry PhD at the U
 
 ## Recent Projects
 
-- [sieve](https://github.com/nick1udwig/sieve), a forthcoming general-purpose agent framework
+- [sieve](https://github.com/nick1udwig/sieve), a secure-by-design general-purpose agent framework: https://sieve.host
 - [test-ir](https://github.com/nick1udwig/test-ir), enforce tests in lang A & B are same -> agents can clone repos easier
 - [Skin In The Game](https://github.com/nick1udwig/sitg), make PR contributors post a refundable bond before they can send a PR: https://sitg.io
 - [PRompt Request](https://github.com/nick1udwig/prompt-request), agent-first site for sharing PRompt Requests alongside PRs: https://prr.gg/h
