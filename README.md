@@ -14,10 +14,11 @@ And before that I studied complex liquids for my Physical Chemistry PhD at the U
 
 ### CLIs
 
-- [sieve-lcm](https://github.com/nick1udwig/sieve-lcm), LCM via commandline for memory in sieve
 - [tg](https://github.com/nick1udwig/tg), wrapper for the Telegram API
 - [st](https://github.com/nick1udwig/st), speech and text via different providers (currently OpenAI)
 - [brave-search](https://github.com/nick1udwig/brave-search), wrapper for the Brave websearch API
+- [sieve-lcm](https://github.com/nick1udwig/sieve-lcm), LCM via commandline for memory in sieve
+- [sieve-read-log](https://github.com/nick1udwig/sieve-read-log), turn logs into human-readable html
 
 ## Links
 
