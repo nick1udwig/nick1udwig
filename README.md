@@ -5,7 +5,7 @@ I'm the Lead Developer at [Hyperware](https://github.com/hyperware-ai).
 Before that I worked at [Remeeting](https://github.com/remeeting), an ASR company (before Whisper solved STT!).
 And before that I studied complex liquids for my Physical Chemistry PhD at the University of Chicago with my advisor, [Suri Vaikuntanathan](https://suri-group.uchicago.edu).
 
-## Projects
+## Recent Projects
 
 - [sieve](https://github.com/nick1udwig/sieve), a forthcoming general-purpose agent framework
 - [test-ir](https://github.com/nick1udwig/test-ir), enforce tests in lang A & B are same -> agents can clone repos easier
@@ -19,8 +19,3 @@ And before that I studied complex liquids for my Physical Chemistry PhD at the U
 - [brave-search](https://github.com/nick1udwig/brave-search), wrapper for the Brave websearch API
 - [sieve-lcm](https://github.com/nick1udwig/sieve-lcm), LCM via commandline for memory in sieve
 - [sieve-read-log](https://github.com/nick1udwig/sieve-read-log), turn logs into human-readable html
-
-## Links
-
-- [Personal site](https://nick.ludwi.gg)
-- [X](https://x.com/nick1udwig)
