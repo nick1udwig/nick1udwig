@@ -19,3 +19,6 @@ And before that I studied complex liquids for my Physical Chemistry PhD at the U
 - [brave-search](https://github.com/nick1udwig/brave-search), wrapper for the Brave websearch API
 - [sieve-lcm](https://github.com/nick1udwig/sieve-lcm), LCM via commandline for memory in sieve
 - [sieve-read-log](https://github.com/nick1udwig/sieve-read-log), turn logs into human-readable html
+- [tmuy](https://github.com/nick1udwig/tmuy), a tmux alternative: intuitive CLI, built-in sandboxing, and more
+- [plaid-cli](https://github.com/nick1udwig/plaid-cli), a wrapper for the Plaid API
+- [sieve-filter](https://github.com/nick1udwig/sieve-filter), a filter for agents
