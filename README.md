@@ -1,7 +1,6 @@
 I'm Nick Ludwig.
 
-I'm the Lead Developer at [Hyperware](https://github.com/hyperware-ai).
-
+I led development at [Hyperware](https://github.com/hyperware-ai).
 Before that I worked at [Remeeting](https://github.com/remeeting), an ASR company (before Whisper solved STT!).
 And before that I studied complex liquids for my Physical Chemistry PhD at the University of Chicago with my advisor, [Suri Vaikuntanathan](https://suri-group.uchicago.edu).
 
@@ -22,3 +21,10 @@ And before that I studied complex liquids for my Physical Chemistry PhD at the U
 - [tmuy](https://github.com/nick1udwig/tmuy), a tmux alternative: intuitive CLI, built-in sandboxing, and more
 - [plaid-cli](https://github.com/nick1udwig/plaid-cli), a wrapper for the Plaid API
 - [sieve-filter](https://github.com/nick1udwig/sieve-filter), a filter for agents
+
+### Pebble
+
+- [tg-pebble](https://github.com/nick1udwig/tg-pebble), Telegram client on your wrist (unofficial)
+- [codex-pebble](https://github.com/nick1udwig/codex-pebble), Codex client on your wrist (unofficial)
+- [bibble](https://github.com/nick1udwig/bibble), A Bible app for Pebble with modern features
+- [basebble](https://github.com/nick1udwig/basebble), A simple baseball game score tracker for Pebble
